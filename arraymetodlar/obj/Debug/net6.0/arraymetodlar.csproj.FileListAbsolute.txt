@@ -1,0 +1,15 @@
+C:\Users\dursu\OneDrive\Documents\Pratikler\arraymetodlar\bin\Debug\net6.0\arraymetodlar.exe
+C:\Users\dursu\OneDrive\Documents\Pratikler\arraymetodlar\bin\Debug\net6.0\arraymetodlar.deps.json
+C:\Users\dursu\OneDrive\Documents\Pratikler\arraymetodlar\bin\Debug\net6.0\arraymetodlar.runtimeconfig.json
+C:\Users\dursu\OneDrive\Documents\Pratikler\arraymetodlar\bin\Debug\net6.0\arraymetodlar.dll
+C:\Users\dursu\OneDrive\Documents\Pratikler\arraymetodlar\bin\Debug\net6.0\arraymetodlar.pdb
+C:\Users\dursu\OneDrive\Documents\Pratikler\arraymetodlar\obj\Debug\net6.0\arraymetodlar.csproj.AssemblyReference.cache
+C:\Users\dursu\OneDrive\Documents\Pratikler\arraymetodlar\obj\Debug\net6.0\arraymetodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dursu\OneDrive\Documents\Pratikler\arraymetodlar\obj\Debug\net6.0\arraymetodlar.AssemblyInfoInputs.cache
+C:\Users\dursu\OneDrive\Documents\Pratikler\arraymetodlar\obj\Debug\net6.0\arraymetodlar.AssemblyInfo.cs
+C:\Users\dursu\OneDrive\Documents\Pratikler\arraymetodlar\obj\Debug\net6.0\arraymetodlar.csproj.CoreCompileInputs.cache
+C:\Users\dursu\OneDrive\Documents\Pratikler\arraymetodlar\obj\Debug\net6.0\arraymetodlar.dll
+C:\Users\dursu\OneDrive\Documents\Pratikler\arraymetodlar\obj\Debug\net6.0\refint\arraymetodlar.dll
+C:\Users\dursu\OneDrive\Documents\Pratikler\arraymetodlar\obj\Debug\net6.0\arraymetodlar.pdb
+C:\Users\dursu\OneDrive\Documents\Pratikler\arraymetodlar\obj\Debug\net6.0\arraymetodlar.genruntimeconfig.cache
+C:\Users\dursu\OneDrive\Documents\Pratikler\arraymetodlar\obj\Debug\net6.0\ref\arraymetodlar.dll

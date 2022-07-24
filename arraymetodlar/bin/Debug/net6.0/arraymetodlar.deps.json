@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "arraymetodlar/1.0.0": {
+        "runtime": {
+          "arraymetodlar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "arraymetodlar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
