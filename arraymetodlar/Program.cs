@@ -14,7 +14,7 @@ Console.WriteLine(sayi);
 //Clear
 Console.WriteLine("Array Clear");
 //sayi dizisi elemanlarini kulllanrak 2.indexten itibaren 2 tane elemani 0lar
-Array.Sort(sayiDizisi,2,2);
+Array.Clear(sayiDizisi,2,2);
 foreach (var sayi in sayiDizisi)
 Console.WriteLine(sayi);
 
